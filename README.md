@@ -4,10 +4,10 @@
 
 *Autor:* Jorge Joel Carreño Quino
 
-Tarjeta: Curiosity Nano PIC18F57Q84
+*tarjeta:* Curiosity Nano PIC18F57Q84
 
-Entorno: MPLAB X IDE
+*Entorno:* MPLAB X IDE
 
-Lenguaje: AMS - C
+*Lenguaje:* AMS - C
 
-UNIVERSIDAD NACIONAL DE PIURA
+*UNIVERSIDAD NACIONAL DE PIURA*
