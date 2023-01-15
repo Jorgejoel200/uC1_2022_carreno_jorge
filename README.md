@@ -14,7 +14,7 @@
 
 *practica -1:*  corrimiento de leds , inicia cuando pulsas el boton del pic  y se detiene cuando vuelves a presionar el botón
 
-*practica-2:* sin presionar el boton del pic , te muestra cuenta de 0-9 y si manntienes presionado de a-f  en un anado común
+*practica-2:* sin presionar el boton del pic , te cuenta de 0-9 y si mantienes presionado de a-f  en un anado comun 
 
 *UNIVERSIDAD NACIONAL DE PIURA*
 
